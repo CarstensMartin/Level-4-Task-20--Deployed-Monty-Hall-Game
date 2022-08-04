@@ -4,10 +4,6 @@
 
 https://carstensmartin.github.io/Level-4-Task-20--Deployed-Monty-Hall-Game/
 
-## NOTE
-
-For the purpose of showing my project I uploaded 1 file location up. In practice I will CD into the file and commit from there, which will exclude the git ignore files
-
 ## Tip
 
 I left the answer in the console view for ease of testing as a recruiter and the "cheat code" way of playing the game.

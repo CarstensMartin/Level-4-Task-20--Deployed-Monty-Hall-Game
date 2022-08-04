@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/css/main.9211d57b.css",
+    "main.js": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/js/main.93612680.js",
+    "static/js/787.3166603b.chunk.js": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/js/787.3166603b.chunk.js",
+    "static/media/pot_of_gold.png": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/media/pot_of_gold.267f8545644efb109b9e.png",
+    "static/media/open_door.jpg": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/media/open_door.f3f39168677305532463.jpg",
+    "static/media/selected_door.jpg": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/media/selected_door.1eaa9fe5ea1f01b2bdc3.jpg",
+    "static/media/closed_door.jpg": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/media/closed_door.960d6f3467aabd0ea206.jpg",
+    "index.html": "/Level-4-Task-20--Deployed-Monty-Hall-Game/index.html",
+    "main.9211d57b.css.map": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/css/main.9211d57b.css.map",
+    "main.93612680.js.map": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/js/main.93612680.js.map",
+    "787.3166603b.chunk.js.map": "/Level-4-Task-20--Deployed-Monty-Hall-Game/static/js/787.3166603b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9211d57b.css",
+    "static/js/main.93612680.js"
+  ]
+}

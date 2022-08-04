@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/*Set the image size and padding*/
+.doorImage{
+  width: 100px;
+  height: 250px;
+  padding: 10px;
+}
+
+button{
+  cursor: pointer;
+}
